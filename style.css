@@ -1,0 +1,12 @@
+#image{
+    width: 25% ;
+    height: 25% ;
+}
+#div{
+    background-color: rgb(212, 255, 0);
+    width: 40%;
+    height: 76%;
+}
+#body{
+    background-image: url("https://www.shyamparivar.com/uploads/gallery/Sky-and-Birds-wallpaper-for-desktop.jpg") ;
+}
